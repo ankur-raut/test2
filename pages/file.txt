@@ -1,0 +1,45 @@
+OpenAI^4aJ9yWbIrOzI2W5LZeLeIdin2AYMpkq18PffLuvi^Ankur Raut  
++91 7030390093  | ankurraut2402@gmail.com  | Linkedin  | Github  
+Education  
+Vishwakarma Institute of technology, Pune         2020  - 2024  
+Bachelor of Technology in Artificial Intelligence and Data Science                             CGPA: 9.09  
+Rao Junior  college of science, Pune            2018 - 2020  
+Senior Secondary  Education                   
+Skills  
+Programming Languages: C/C++, Python, SQL , JavaScript  
+Technologies/Frameworks/Libraries: HTML, CSS,  Django,  ReactJS, Pandas, Numpy, OpenCV  
+Soft Skills: Problem Solving, Public Speaking, Leadership, Time Management  
+Projects  
+SAFAR E -TOURISM (03/2022 -06/2022)  | HTML, CSS, JavaScript, React & Django                               LINK  
+· Built a w ebsite for booking online Tickets to Monuments and Museums . Implemented a payment gateway using the 
+Razorpay API  for tourist to book tickets online . 
+· The g enerated Ticket, containing QR code , is sent to users’ email which can be scanned at the entry to verify 
+booking.  The admin panel has access to all the booking details  of the tourists and monuments which is stored in a 
+database.  
+EFFICIENT SYSTEM FOR CPU METRIC VISUALIZATION (08/2022 -10/2022)  | HTML, CSS, JavaScript, Django                     LINK  
+· Built a  web -based platform  for fetching local system information and provide graphical insights into the 
+performance parameters such as CPU usage, M emory, and GPU.   
+· The platform offers an ‘ .exe ’ file for users to download and run on their local system, which fetches useful system 
+information from the system and also checks whether a specific application can work on their system based on 
+minimum requirements.  
+CINEPHILIC  (01/2023 -02/2023) |  HTML, CSS, JavaScript, Django                      LINK  
+· Developed a Movie Recommendation platform for users to get recommendations based on Content Based Filtering  
+and Collaborative Based Filtering . 
+· User can Rate movies, select current mood, answer questionnaire for personali sed recommendations and also 
+create their own watchlist.  
+Publication  
+Sugarcane Leaf Disease Classification using Transfer Learning                               LINK  
+· Published in IEEE Explore  
+Efficient System for CPU Metric Visualization                         LINK  
+· Published in ESCI Indexed Journal  
+Position of Responsibility  
+PAYLOAD HEAD | TRIDENT LABS - SATLAB                      FEB 2022 -(PRESENT)  
+· Part of the technical team that focuses on research of CubeSat’s payloads.  
+Execution Committee Member | Social Welfare & Development Committee, VIT Pune                AUG  2021 -JULY 2022  
+· Hospitality head of a  Blood donation camp conducted by the Social Welfare and Development Committee with 
+around 355 doners.  
+Achievements  
+· Ranked 1st out of 80+ teams at the Internal Smart India Hackathon (2022) conducted at Vishwakarma Institute of 
+Technology  
+· One of the top 20 teams out of 90+ teams to attend final round of INGENIOUS '22 HACKATHON conducted by 
+ISA VIT Pune Student Section  ^
