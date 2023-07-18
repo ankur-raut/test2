@@ -42,7 +42,3 @@ if (submitted and api_key.startswith('4a')) or (submitted and api_key.startswith
     with st.spinner('Calculating...'):
         append_to_file(r'pages/file.txt', llm_name, api_key, read_and_print_file(uploaded_file))
         st.markdown('<a href="/QA_Page" target="_self">Go to Chat -></a>', unsafe_allow_html=True)
-
-
-# 4aJ9yWbIrOzI2W5LZeLeIdin2AYMpkq18PffLuvi
-# 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
